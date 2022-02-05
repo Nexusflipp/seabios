@@ -36,5 +36,6 @@ make
 ```shell
 qemu -bios out/bios.bin
 ```
+<br>
 
 Or you could use my PKGBUILD file.

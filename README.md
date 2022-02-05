@@ -4,13 +4,13 @@
 <br>
 
 <p align="center"> 
-    <a href="#" target="_blank"> <img src="https://img.shields.io/tokei/lines/github/nexusflipp/seabios-sp"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.shields.io/github/issues/nexusflipp/seabios-sp"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.shields.io/github/languages/top/nexusflipp/seabios-sp"/> </a> 
-    <a href="#" target="_blank"> <img src="https://img.shields.io/github/languages/count/nexusflipp/seabios-sp"/> </a> 
-    <a href="#" target="_blank"> <img src="https://img.shields.io/github/last-commit/nexusflipp/seabios-sp"/> </a> 
-    <a href="#" target="_blank"> <img src="https://img.shields.io/github/repo-size/nexusflipp/seabios-sp"/> </a> 
-    <a href="#" target="_blank"> <img src="https://img.shields.io/github/languages/code-size/nexusflipp/seabios-sp"/> </a> 
+    <a href="#" target="_blank"> <img src="https://img.shields.io/tokei/lines/github/nexusflipp/seabios"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.shields.io/github/issues/nexusflipp/seabios"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.shields.io/github/languages/top/nexusflipp/seabios"/> </a> 
+    <a href="#" target="_blank"> <img src="https://img.shields.io/github/languages/count/nexusflipp/seabios"/> </a> 
+    <a href="#" target="_blank"> <img src="https://img.shields.io/github/last-commit/nexusflipp/seabios"/> </a> 
+    <a href="#" target="_blank"> <img src="https://img.shields.io/github/repo-size/nexusflipp/seabios"/> </a> 
+    <a href="#" target="_blank"> <img src="https://img.shields.io/github/languages/code-size/nexusflipp/seabios"/> </a> 
 </p>
 
 <br>

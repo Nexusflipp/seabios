@@ -15,7 +15,7 @@
 
 <br>
 
-Custom/Spoofed seabios source.
+Custom/Spoofed seabios source (rel-1.15.0).
 Please see build and developer information at: http://seabios.org/Developer_Documentation
 SeaBIOS is built for QEMU and tested on QEMU.
 
